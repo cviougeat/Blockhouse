@@ -1,0 +1,7 @@
+pandas
+numpy
+zstandard
+io
+matplotlib.pyplot
+sklearn.decomposition
+statsmodels.api
