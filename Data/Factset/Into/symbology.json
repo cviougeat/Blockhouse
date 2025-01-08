@@ -1,0 +1,34 @@
+{
+    "result": {
+        "PACW": [
+            {
+                "d0": "2024-12-04",
+                "d1": "2024-12-11",
+                "s": "12240"
+            }
+        ],
+        "SBNY": [],
+        "FDS": [
+            {
+                "d0": "2024-12-04",
+                "d1": "2024-12-11",
+                "s": "5773"
+            }
+        ]
+    },
+    "symbols": [
+        "PACW",
+        "SBNY",
+        "FDS"
+    ],
+    "stype_in": "raw_symbol",
+    "stype_out": "instrument_id",
+    "start_date": "2024-12-04",
+    "end_date": "2024-12-11",
+    "partial": [],
+    "not_found": [
+        "SBNY"
+    ],
+    "message": "Not found",
+    "status": 2
+}
