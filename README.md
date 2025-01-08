@@ -8,11 +8,11 @@ order book data and analyze their predictive power on returns. This work is done
 provide additional explanatory power for price movements.
 
 2. Files structure
-The blockhouse folder contains the data extracted from data bento with one folder per equity studied.
+The Data folder contains the data extracted from data bento with one folder per equity studied.
 In each equity_concat folder, files have been named with letters to ease the processing of files in alphabetical order.
 The folders have the following structure:
 Project Directory:
-├── blockhouse/
+├── Data/
 │   ├── [REDDIT]/
 │      ├── [Into]/
 │        ├── [Rdd_concat]/
