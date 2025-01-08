@@ -54,9 +54,10 @@ Project Directory:
 │          ├── [d.csv.zst]
 │          ├── [e.csv.zst]
 ├── Blockhouse.ipynb
-└── README.md
+├── README.md
+└── requirements.txt
 
-3. Notebook precisions
+4. Notebook precisions
 The data for each stock is processed during the first phase of the notebook to extract it from the zipped format.
 The notebook directly accesses the folders of data referenced at the beginning of the notebook.
 The notebook contains the visualization of each step with a format adapted to the context. 
